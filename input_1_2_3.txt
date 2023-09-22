@@ -1,0 +1,8 @@
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Donec condimentum elit vel mauris varius, id laoreet tortor placerat.
+Nulla scelerisque felis ac risus varius, sit amet luctus elit mattis.
+This is a sample input text. It contains some common words such as the, and, of, a, and to.
+These stopwords should be removed in the output.
+a man a plan a canal panama there was a plan to build a canal in panama in panama a canal
+was built
+
